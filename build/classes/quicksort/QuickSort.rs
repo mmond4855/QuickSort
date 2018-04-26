@@ -1,0 +1,2 @@
+quicksort.qSorting
+quicksort.QuickSort
